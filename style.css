@@ -263,7 +263,7 @@ a:focus {
 	margin: 10px 0;
 	line-height: 1;
 	position: relative;
-	margin-top: 10vh;
+	margin-top: 6vh;
 }
 
 .content__title-sub {
@@ -275,7 +275,7 @@ a:focus {
 }
 
 .ht{
-	margin-left: 15vw;
+	margin-left: none;
 }
 
 .cursor {
