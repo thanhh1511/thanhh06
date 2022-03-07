@@ -267,7 +267,7 @@ a:focus {
 
 .content__title-sub {
 	color: var(--color-content-title-sub);
-	font-size: 4vw;
+	font-size: 3.5vw;
 	display: block;
 	margin-left: 3vw;
 	line-height: 0.5;
