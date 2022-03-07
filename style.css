@@ -263,6 +263,7 @@ a:focus {
 	margin: 10px 0;
 	line-height: 1;
 	position: relative;
+	margin-top: 12vh;
 }
 
 .content__title-sub {
