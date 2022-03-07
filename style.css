@@ -273,6 +273,10 @@ a:focus {
 	line-height: 0.5;
 }
 
+.ht{
+	margin-left: 24vw;
+}
+
 .cursor {
 	display: none;
 }
